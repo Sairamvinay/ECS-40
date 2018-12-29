@@ -14,7 +14,6 @@
 // Output:
 //   list of nearest facilities and runways including distance in nautical miles
 //NAME - SAIRAMVINAY VIJAYARAGHAVAN
-//SID - 913603345
 #include "Facility.h"
 #include "Runway.h"
 #include "Closer.h"
