@@ -1,5 +1,4 @@
-//Name:Varun Peesapati
-//Student ID:913860434
+
 #include <iostream>
 #include <stdexcept>
 #include "Shape.h"
